@@ -1,0 +1,30 @@
+{
+  "name": "node-jeapie",
+  "version": "0.0.1",
+  "description": "node.js module for push messages to jeapie",
+  "main": "jeapie.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rahmanroman/node-jeapie"
+  },
+  "keywords": [
+    "nodejs",
+    "jeapie",
+    "push"
+  ],
+  "author": {
+    "name": "Roman Rahman",
+    "email": "rahman.roman@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rahmanroman/node-jeapie/issues"
+  },
+  "homepage": "https://github.com/rahmanroman/node-jeapie",
+  "dependencies": {
+    "request": "*"
+  },
+  "engines": {
+    "node": ">=0.8.x"
+  }
+}
