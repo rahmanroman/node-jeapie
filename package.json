@@ -10,7 +10,10 @@
   "keywords": [
     "nodejs",
     "jeapie",
-    "push"
+    "push",
+    "APNS",
+    "GCM",
+    "MPNS"
   ],
   "author": {
     "name": "Roman Rahman",
